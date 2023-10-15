@@ -1,5 +1,6 @@
 /* This is a simple Java program. 
-   FileName : "HelloWorld.java". */
+   FileName : "HelloWorld.java". 
+Need to add something to run jenkins*/
 class HelloWorld 
 { 
     // Your program begins with a call to main(). 
@@ -7,5 +8,6 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World"); 
+	System.out.println("Read = real epic");
     } 
 }
